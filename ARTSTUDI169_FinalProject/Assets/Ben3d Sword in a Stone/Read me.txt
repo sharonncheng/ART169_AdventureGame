@@ -1,0 +1,20 @@
+Content: 
+
+5 prefabs;
+
+meshes: 
+
+Sword: 430 tris
+Stone1_low: 411 tris
+Stone1_mid: 1381 tris
+Stone2_low: 423 tris
+Stone2_mid: 1119 tris 
+Ivy: 104 tris
+
+Specifications: 
+
+-Low poly models, LOD meshes
+
+-Specular Bump material with custom specularity.
+
+-Normal map based on a high poly (not included)
